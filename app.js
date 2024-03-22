@@ -1,7 +1,10 @@
-// const firstName = 'Sergey'
-// firstName = 'Ivan'
-// console.log('Hello', firstName)
+let firstName ='Sergey'
+let age = '23'
+let city = 'Sochi'
+let hobby = 'photography, design, nature'
 
-let firstName = 'Sergey'
-firstName = 'Ivan'
-console.log('Hello', firstName)
+console.log('Hello', firstName, age, city, hobby)
+
+
+
+
